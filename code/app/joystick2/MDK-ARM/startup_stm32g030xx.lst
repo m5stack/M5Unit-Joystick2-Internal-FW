@@ -339,12 +339,13 @@ ARM Macro Assembler    Page 6
   234 00000014                 END
               00000000 
               00000000 
-Command Line: --debug --xref --cpu=Cortex-M0+ --depend=joystice2\startup_stm32g
-030xx.d -ojoystice2\startup_stm32g030xx.o -I.\RTE\_joystice2 -IC:\Keil_v5\ARM\P
-ACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include -IC:\Keil_v5\ARM\PACK\Keil\STM32G0xx_DFP
-\1.4.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include --predefine="__MICROLIB SETA 1
-" --predefine="__UVISION_VERSION SETA 525" --predefine="_RTE_ SETA 1" --predefi
-ne="STM32G030xx SETA 1" --list=startup_stm32g030xx.lst startup_stm32g030xx.s
+Command Line: --debug --xref --cpu=Cortex-M0+ --depend=.\joystick2\startup_stm3
+2g030xx.d -o.\joystick2\startup_stm32g030xx.o -I.\RTE\_joystick2 -IC:\Keil_v5\A
+RM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include -IC:\Keil_v5\ARM\PACK\Keil\STM32G0xx
+_DFP\1.4.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include --predefine="__MICROLIB SE
+TA 1" --predefine="__UVISION_VERSION SETA 525" --predefine="_RTE_ SETA 1" --pre
+define="STM32G030xx SETA 1" --list=startup_stm32g030xx.lst startup_stm32g030xx.
+s
 
 
 

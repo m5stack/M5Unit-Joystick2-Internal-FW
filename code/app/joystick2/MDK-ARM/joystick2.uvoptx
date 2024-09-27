@@ -22,7 +22,7 @@
   </DaveTm>
 
   <Target>
-    <TargetName>joystice2</TargetName>
+    <TargetName>joystick2</TargetName>
     <ToolsetNumber>0x4</ToolsetNumber>
     <ToolsetName>ARM-ADS</ToolsetName>
     <TargetOption>

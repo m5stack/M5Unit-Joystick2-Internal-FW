@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'joystice2' 
- * Target:  'joystice2' 
+ * Project: 'joystick2' 
+ * Target:  'joystick2' 
  */
 
 #ifndef RTE_COMPONENTS_H
